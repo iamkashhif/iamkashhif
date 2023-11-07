@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kashif Husain
+# Hi there! 👋 I'm <span style="color: green;">Kashif Husain</span>
 
 I'm a React JS and Next JS developer with a passion for creating dynamic and user-friendly web applications. Here's a little bit about me:
 
