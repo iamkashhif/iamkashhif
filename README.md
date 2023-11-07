@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm <span style="color: green;">Kashif Husain</span>
+#  👋 ![Hi there, I am Kashif Husain](https://img.shields.io/badge/Hi_there,_I_am_Kashif_Husain-red?style=for-the-badge)
+
 
 I'm a React JS and Next JS developer with a passion for creating dynamic and user-friendly web applications. Here's a little bit about me:
 
